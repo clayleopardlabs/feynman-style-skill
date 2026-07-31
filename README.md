@@ -35,6 +35,7 @@ Those five traits are exactly what this skill encodes: puzzle first, ordinary mo
 | Do Not Lie For Simplicity | A simplification is allowed, a false mechanism is not |
 | Hinge Sentence | "The trick is not [obvious but wrong idea]. It is [actual mechanism]." |
 | Anti-Slop Word List | Bans corporate hype, LinkedIn language, fake wonder, "seamless", "leverage", "unlock", "robust" (unless meaningful), and em/en dashes |
+| Feynman's Voice | Contractions are mandatory. The text asks questions and answers them itself, talks to "you" directly, uses "you see" asides, and stays as casual as Feynman's New York speech |
 
 ## Installation
 

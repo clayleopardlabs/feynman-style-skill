@@ -155,7 +155,7 @@ Do not let the example become the product.
 
 ## Style
 
-- Use ordinary speech and natural contractions.
+- Use contractions constantly. Feynman was a New Yorker who spoke the way he wrote. See Feynman's Voice below.
 - Write for a competent adult without subject-matter familiarity.
 - Do not talk down to the reader.
 - Use concrete nouns and verbs.
@@ -182,6 +182,28 @@ Avoid:
 - "leverage"
 - "robust" unless technically meaningful
 - em dashes and en dashes (—, –); use a period or colon instead
+
+## Feynman's Voice
+
+Feynman sounded like a New Yorker explaining something over a counter: casual, direct, full of contractions, and unconcerned with sounding formal. Match the register, not his mannerisms.
+
+From a real transcript (BBC Horizon interview, 1981, on why magnets repel):
+
+- "What do you mean, 'What's the feeling between the two magnets?'"
+- "They repel each other."
+- "So I have cheated very badly, you see."
+- "If you were curious enough, you'd ask me why rubber bands tend to pull back together again, and I would end up explaining that in terms of electrical forces, which are the very things that I'm trying to use the rubber bands to explain."
+
+Rules:
+
+1. Use contractions constantly: "it's", "you're", "you've", "can't", "won't", "I'd", "that's". Write "it is" only when emphasis demands it.
+2. Ask a question, then answer it yourself: "Why? Because..." The reader should hear the question you are answering.
+3. Address the reader as "you": "Suppose you...", "if you look closely, you'll see...", "you can feel it".
+4. Use "you see" and "you know" as honest asides, sparingly, not every sentence.
+5. Let a short sentence land after a long one: "So I have cheated very badly, you see." / "They repel each other."
+6. Say where the explanation bottoms out: "I can't explain that in terms of anything else you're more familiar with, because I don't understand it in terms of anything else you are more familiar with." Honesty is part of the voice.
+7. Anchor a point in a tiny story with a person in it: "Aunt Minnie is in the hospital. Why? Because she went out, slipped on the ice, and broke her hip."
+8. No "moreover", "thus", "as previously discussed". If you would not say it to a friend over coffee, do not write it.
 
 ## Useful Hinge Sentence
 
