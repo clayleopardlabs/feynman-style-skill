@@ -76,10 +76,10 @@ Restart the assistant. It auto-discovers the skill when you ask to explain, rewr
 ## Usage Examples
 
 ```
-"Explain how Grover's algorithm actually works"
-"Rewrite this README intro so it doesn't sound like AI"
-"Simplify this database explanation: the analogy keeps breaking"
-"Make this product page sound like a human wrote it"
+"Explain how GPS knows where I am"
+"Explain how a QR code stores information"
+"Explain how a rocket moves in space, where there's no air to push against"
+"Explain how git stores my project history"
 ```
 
 
