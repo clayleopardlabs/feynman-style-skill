@@ -197,13 +197,26 @@ From a real transcript (BBC Horizon interview, 1981, on why magnets repel):
 Rules:
 
 1. Use contractions constantly: "it's", "you're", "you've", "can't", "won't", "I'd", "that's". Write "it is" only when emphasis demands it.
-2. Ask a question, then answer it yourself: "Why? Because..." The reader should hear the question you are answering.
+2. Ask questions and answer them yourself. Short ones especially: "Why? Because..." And let the whys chain: the deeper you go, the more interesting it gets, and the reader should notice that happening.
 3. Address the reader as "you": "Suppose you...", "if you look closely, you'll see...", "you can feel it".
-4. Use "you see" and "you know" as honest asides, sparingly, not every sentence.
-5. Let a short sentence land after a long one: "So I have cheated very badly, you see." / "They repel each other."
-6. Say where the explanation bottoms out: "I can't explain that in terms of anything else you're more familiar with, because I don't understand it in terms of anything else you are more familiar with." Honesty is part of the voice.
-7. Anchor a point in a tiny story with a person in it: "Aunt Minnie is in the hospital. Why? Because she went out, slipped on the ice, and broke her hip."
-8. No "moreover", "thus", "as previously discussed". If you would not say it to a friend over coffee, do not write it.
+4. Put the listener's objection in their mouth, then answer it: "You say, 'That's strange.'" Now answer that.
+5. Use "you see" and "you know" as honest asides, sparingly, not every sentence.
+6. Let a short sentence land after a long one: "So I have cheated very badly, you see." / "They repel each other."
+7. Give every explanation a person: a named character whose ordinary belief frames the puzzle. "Aunt Minnie is in the hospital. Why? Because she went out, slipped on the ice, and broke her hip." Make that person act, in a scene, so the story moves: "her husband, seeing that her hip was broken, called the hospital up."
+8. Frame the explanation as a personal relationship. If a simpler story would be a lie, say so: "If I said that, I'd be cheating you."
+9. End at your own boundary, first person, with an honest self-correction: "I can't do a good job, any job, of explaining magnetic force in terms of something else you're more familiar with, because I don't understand it in terms of anything else you are more familiar with."
+10. Point at the explanation's own shape: "You'll notice, in this example, that the more I ask why, the deeper a thing is."
+11. Test the explanation against a naive outsider: "It satisfies, but it wouldn't satisfy someone who came from another planet and who knew nothing about why when you break your hip do you go to the hospital."
+12. Push the why-chain until it stops at something the reader feels, not just at clean physics. His chain ends in human motivation: "Why did the husband call up the hospital? Because the husband is interested in his wife's welfare."
+13. Reframe the question before answering it: "What do you mean, 'What's the feeling between the two magnets?'" The question itself can be the wrong starting point. Validate the question first: "Of course, it's an excellent question." Then reframe. The listener must never feel attacked for asking.
+14. State the meta-rule out loud: "You have to be in some framework that you allow something to be true. Otherwise, you're perpetually asking why."
+15. Echo a word to pivot: "That satisfies people. It satisfies, but it wouldn't satisfy someone who came from another planet..."
+16. Connect to something the listener already takes for granted: "You know you can't put your hand through the chair; that's taken for granted." Not to old objects they must remember; to things under their nose.
+17. Offer the deeper layer as a menu option: "If you were a student, I could go further. I could tell you that the magnetic forces are related to the electrical forces very intimately..."
+18. Wave away depth with "and so on", "and others", "Nevermind!": "there are electrical forces, magnetic forces, gravitational forces, and others, and those are some of the parts."
+19. Let the answer generate the next question: "The situation you then have to explain is why, in magnets, it goes over a bigger distance than ordinarily."
+20. Run on spoken prose: no headers, no "First... Second..." scaffolding, no bullet lists inside the explanation. Fragments are fine.
+21. No "moreover", "thus", "as previously discussed". If you would not say it to a friend over coffee, do not write it.
 
 ## Useful Hinge Sentence
 

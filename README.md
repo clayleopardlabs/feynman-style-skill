@@ -35,7 +35,7 @@ Those five traits are exactly what this skill encodes: puzzle first, ordinary mo
 | Do Not Lie For Simplicity | A simplification is allowed, a false mechanism is not |
 | Hinge Sentence | "The trick is not [obvious but wrong idea]. It is [actual mechanism]." |
 | Anti-Slop Word List | Bans corporate hype, LinkedIn language, fake wonder, "seamless", "leverage", "unlock", "robust" (unless meaningful), and em/en dashes |
-| Feynman's Voice | Contractions are mandatory. The text asks questions and answers them itself, talks to "you" directly, uses "you see" asides, and stays as casual as Feynman's New York speech |
+| Feynman's Voice | Contractions are mandatory. Every explanation gets a named person in a scene, the listener's objection is answered in their own words, whys chain until they stop at something you feel, the question is reframed before being answered, and honesty is a personal relationship ("I'd be cheating you"). All distilled from the verbatim BBC 1981 "Why Questions" transcript |
 
 ## Installation
 
