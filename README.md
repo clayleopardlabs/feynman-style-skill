@@ -81,7 +81,7 @@ Restart the assistant. It auto-discovers the skill when you ask to explain, rewr
 "Make this product page sound like a human wrote it"
 ```
 
-## Example: Quantum Tunneling, Explained the Feynman Way
+## Example 1: Quantum Tunneling, Explained the Feynman Way
 
 
 The puzzle: roll a marble up a hill and it stops partway and rolls back. Enough energy, and it gets over. That rule is so reliable we design sieves, walls, and semiconductor gates around it. Yet at the atomic scale the rule fails: electrons cross barriers that should stop them, without ever spending the energy needed to get over the top.
@@ -97,6 +97,24 @@ The consequences are industrial, not academic. Flash memory stores your data bec
 Where does the simple picture break? At human scale. A marble is a wave too, but its wavelength is so absurdly small that the leak across any ordinary wall is less than one chance in a googol of googols. The rule "you need energy to cross a barrier" is not false. It is the large-scale limit of a wave picture that only shows itself when the barrier is thin enough and the object small enough.
 
 What the skill did, step by step: opened with the puzzle and the ordinary rule, showed exactly where the rule fails, discarded the tempting wrong mechanism (the tunnel), introduced the smallest mechanism that fixes it (a wave that leaks), named terms like "probability" and "wavelength" only after their jobs were clear, ended with a real consequence, and finished by saying where the picture breaks instead of pretending it never does.
+
+## Example 2: PCR, the Copier That Cannot Read
+
+The puzzle: you want to study one gene, but a sample of cells contains vanishingly little of it. The old way to get more copies was to insert the gene into bacteria and let them multiply it for weeks. PCR does the same job in about an hour in a plastic tube, using a machine that is basically a thermostat. It can turn a single molecule into a billion copies. How can a machine make billions of exact copies of something it never looks at?
+
+The obvious explanation is that the machine reads the DNA and prints copies, like a photocopier. That is wrong. The machine has no reader, no sensor, and no understanding of DNA at all. It moves the tube between three temperatures. The copying is done by a protein that cannot read either, and it is happy to copy whatever it is handed. The trick is not telling the machine what to copy. It is adding two bookmarks so the blind copying lands exactly on the target.
+
+Here is the mechanism, one cycle:
+
+1. Heat the tube to about 95°C. The two strands of the DNA double helix unzip into two separate strands.
+2. Cool to about 60°C. You added two short synthetic DNA bookmarks (primers) earlier. They stick to the two ends of your target region, one on each strand, facing each other.
+3. Warm to about 72°C. A protein called a polymerase extends each bookmark, building the complementary strand as it goes, until it reaches the end.
+
+One double helix becomes two. Repeat the cycle, and each round doubles the count: 2, 4, 8, and after 30 cycles about a billion copies from a single molecule. The polymerase is not special because it copies DNA; every cell has one. It is special because it comes from a bacterium that lives in hot springs, so it survives the 95°C step that would destroy its cousins.
+
+The consequences are everywhere. The standard COVID test detects the virus this way, after first converting its RNA back to DNA. Forensics can type DNA from a single hair. PCR is the front end of most DNA sequencing.
+
+Where does the picture break? The doubling does not continue forever. Reagents run out and the enzyme wears out, so the reaction plateaus at a few billion copies. And the bookmarks do not care whose DNA they match: one stray skin cell from the person running the test amplifies as enthusiastically as the target, which is why contamination is the classic enemy of PCR labs.
 
 ## Why This Skill Exists
 
