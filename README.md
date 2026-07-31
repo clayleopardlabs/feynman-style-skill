@@ -83,7 +83,6 @@ Restart the assistant. It auto-discovers the skill when you ask to explain, rewr
 
 ## Example: Quantum Tunneling, Explained the Feynman Way
 
-This section is a worked example of the skill, applied to a real physics topic. Notice the shape: puzzle, ordinary model, where it fails, the smallest new mechanism, the hinge sentence, the practical consequence, and where the simple picture breaks. Also notice the absence of em dashes and hype words. It was written by DeepSeek V4 Flash, a model not especially known for being a great writer: the structure and word choice come from the skill, not the model.
 
 The puzzle: roll a marble up a hill and it stops partway and rolls back. Enough energy, and it gets over. That rule is so reliable we design sieves, walls, and semiconductor gates around it. Yet at the atomic scale the rule fails: electrons cross barriers that should stop them, without ever spending the energy needed to get over the top.
 
