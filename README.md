@@ -100,7 +100,7 @@ What the skill did, step by step: opened with the puzzle and the ordinary rule, 
 
 ## Why This Skill Exists
 
-This skill was never intended to remove AI-sounding text. It exists because the author always wanted to attend a Feynman lecture, and having Feynman explain topics sounded like the best possible way to learn anything. The benchmark below happened because the author got curious: if this skill happened to also write clean prose, what would it score? The number was good, so it is documented here. De-slopping was never the point, and the skill keeps its voice-based rules (contractions, natural sentence length) even where the linter charges for them.
+This skill was never intended to remove AI-sounding text. It exists because I always wanted to attend a Feynman lecture, and having Feynman explain topics sounded like the best possible way to learn anything. The benchmark below happened because I got curious: if this skill happened to also write clean prose, what would it score? The number was good, so it is documented here. De-slopping was never the point, and the skill keeps its voice-based rules (contractions, natural sentence length) even where they conflict with that goal.
 
 ## Bonus: Anti-Slop Benchmark
 
