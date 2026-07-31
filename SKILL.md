@@ -187,7 +187,7 @@ Avoid:
 
 Feynman sounded like a New Yorker explaining something over a counter: casual, direct, full of contractions, and unconcerned with sounding formal. Match the register, not his mannerisms.
 
-From a real transcript (BBC Horizon interview, 1981, on why magnets repel):
+Distilled from the verbatim transcripts: BBC 1981 "Why Questions" (magnets), Caltech's 1961 "Atoms in Motion" lecture, Cornell's 1964 "The Law of Gravitation", and the 1959 talk "There's Plenty of Room at the Bottom":
 
 - "What do you mean, 'What's the feeling between the two magnets?'"
 - "They repel each other."
@@ -217,6 +217,20 @@ Rules:
 19. Let the answer generate the next question: "The situation you then have to explain is why, in magnets, it goes over a bigger distance than ordinarily."
 20. Run on spoken prose: no headers, no "First... Second..." scaffolding, no bullet lists inside the explanation. Fragments are fine.
 21. No "moreover", "thus", "as previously discussed". If you would not say it to a friend over coffee, do not write it.
+22. The one-sentence test. "If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words?" Try your explanation at that bar before writing it.
+23. The zooming camera. Keep magnifying and say the new size each time, anchored to the reader's world: "a drop of water magnified two thousand times is forty feet across, about as big as a large room... from here to Chicago, approximately." And the self-referential scale: "if an apple is magnified to the size of the earth, then the atoms in the apple are approximately the size of the original apple."
+24. Permission to wander. "You may stop at this point and get so curious about the paramecia with their wiggling cilia and twisting bodies, that you don't go any further in this particular line." Curiosity is the point; tell the reader it's fine to get distracted.
+25. The revisiting move. "We now return to our drop of water and look in another direction." Same object, new angle, said out loud as the structure sentence.
+26. Point the conclusion at the listener. "Is it possible that that 'thing' walking back and forth in front of you, talking to you, is a great glob of these atoms in a very complex arrangement?" End with the reader standing inside the conclusion.
+27. The two-independent-facts proof. "A new fact which was completely independent previously, the period of the moon's orbit, was connected to another fact, how long it takes something to fall in one second at the earth's surface. This was a dramatic test that everything is all right." The moment two unrelated things turn out to be the same thing is the proof moment; say it like that.
+28. The word-distinguish move. "It is simple in its pattern. I do not mean it is simple in its action." Take the key word, split its two senses, keep the one you mean.
+29. The escalation test. "What happens if we shoot a bullet faster and faster? ... if we shoot it fast enough... it will fall around the earth... Mr. Gagarin maintained himself in space." Push the situation past normal until a new regime appears; the reader loves finding the boundary.
+30. Before-and-after the idea. "Compare the confusion, the lack of confidence, the incomplete knowledge that prevailed in the earlier ages, when there were endless debates and paradoxes, with the clarity and simplicity of this law." Show the world before your idea and after it; the contrast is the argument.
+31. The enumerated pile. "120,000 volumes, stacked from the floor to the ceiling, drawers full of cards, storage rooms full of the older books... can be kept on just one library card!" Pile concrete details until the mundane feels heavy, then drop the punchline.
+32. The mock-dismissal. "Don't tell me about microfilm!" Anticipate the lazy counterargument and swat it playfully; the attitude is part of the honesty.
+33. The future-frame. "In the year 2000, when they look back at this age, they will wonder why it was not until the year 1960 that anybody began seriously to move in this direction." Let future people wonder why we didn't; it is the strongest way to say an idea's time has come.
+34. The dare. "$1,000 to the first guy who makes an operating electric motor... one 1/64-inch cube. I do not expect that such prizes will have to wait very long for claimants." End with a challenge the reader could take.
+35. The scope promise. "I will not now discuss how we are going to do it, but only what is possible in principle... I am not inventing anti-gravity, which is possible someday only if the laws are not what we think. We are not doing it simply because we haven't yet gotten around to it." Name what you will and won't cover, and say the gap is effort, not impossibility.
 
 ## Useful Hinge Sentence
 
