@@ -102,7 +102,7 @@ What the skill did, step by step: opened with the puzzle and the ordinary rule, 
 
 This skill was never intended to remove AI-sounding text. It exists because the author always wanted to attend a Feynman lecture, and having Feynman explain topics sounded like the best possible way to learn anything. The benchmark below happened because the author got curious: if this skill happened to also write clean prose, what would it score? The number was good, so it is documented here. De-slopping was never the point, and the skill keeps its voice-based rules (contractions, natural sentence length) even where the linter charges for them.
 
-## Anti-Slop Benchmark
+## Bonus: Anti-Slop Benchmark
 
 Tested with the heuristic anti-slop linter from [woosal1337's "cure for AI slop" experiment kit](https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop) (violations per 100 words, lower is cleaner): 6 writing tasks, baseline slop at 8.24 → **Feynman Style at 2.10 (−74.5%)**. Full comparison in the [ste100-skill benchmark](https://github.com/clayleopardlabs/ste100-skill).
 
