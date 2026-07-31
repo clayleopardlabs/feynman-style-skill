@@ -4,6 +4,20 @@ An AI coding assistant skill for explaining, rewriting, and drafting technical m
 
 Not an imitation of Richard Feynman's prose. The method: make the reader watch the ordinary explanation fail, then give them the smallest new mechanism that makes the result make sense.
 
+## Who Was Richard Feynman?
+
+Richard Feynman (1918-1988) was an American theoretical physicist. He helped build the atomic bomb at Los Alamos at age 25, shared the 1965 Nobel Prize in Physics for work on quantum electrodynamics, invented the Feynman diagram (now used everywhere in particle physics), and served on the panel that investigated the Challenger disaster, famously demonstrating with a glass of ice water how the shuttle's O-rings failed. He taught at Caltech for most of his career, where his lecture course became the legendary three-volume *Feynman Lectures on Physics*, still read today.
+
+Feynman's reputation as a teacher rests on a few signature traits:
+
+- **Explaining at the level the listener needs.** His famous maxim: "if you can't explain it simply, you don't understand it well enough." He stripped ideas to their physical core and rebuilt them from scratch for each audience, never assuming prior jargon.
+- **Physical intuition over formalism.** He refused to recite equations; he found the picture behind them. The Feynman diagram itself was born from his need to visualize particle interactions.
+- **"Why would you care" framing.** He started with puzzles or paradoxes the listener could feel, then revealed the mechanism that resolves them.
+- **Radical honesty.** He freely said "I don't know", and loved showing when the conventional explanation was actually nonsense.
+- **Analogies that match the mechanism.** Vivid examples that behave like the real thing, so the analogy never misleads.
+
+Those five traits are exactly what this skill encodes: puzzle first, ordinary model, where it fails, then the smallest honest mechanism, with terms introduced late.
+
 ## What It Does
 
 - **Explains** hard topics in layers: puzzle → obvious (wrong) model → where it fails → real mechanism → consequences
