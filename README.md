@@ -82,9 +82,11 @@ Restart the assistant. It auto-discovers the skill when you ask to explain, rewr
 "Make this product page sound like a human wrote it"
 ```
 
-## Example 1: Why the Sky Is Blue, Explained the Feynman Way
 
 Both examples below were written by DeepSeek V4 Flash, a model not especially known for being a great writer: the structure and word choice come from the skill, not the model.
+
+
+## Example 1: Why the Sky Is Blue, Explained the Feynman Way
 
 Your kid Danny asks you at breakfast why the sky is blue, and you open your mouth and hear yourself say something about light scattering, and you're not even sure what that means, and honestly it's a perfectly reasonable question, so let's see if we can do better than the words you're not sure about.
 
