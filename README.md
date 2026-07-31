@@ -2,7 +2,7 @@
 
 An AI coding assistant skill for explaining, rewriting, and drafting technical material in a Feynman-like way: concrete, curious, physically grounded, technically honest, and allergic to fake sophistication.
 
-Not an imitation of Richard Feynman's prose. The method: make the reader watch the ordinary explanation fail, then give them the smallest new mechanism that makes the result make sense.
+Not a parody of Richard Feynman's prose. The method: make the reader watch the ordinary explanation fail, then give them the smallest new mechanism that makes the result make sense. And the voice: the way he actually talked, distilled from his transcripts.
 
 ## Who Was Richard Feynman?
 
@@ -37,7 +37,7 @@ Those five traits are exactly what this skill encodes: puzzle first, ordinary mo
 | Do Not Lie For Simplicity | A simplification is allowed, a false mechanism is not |
 | Hinge Sentence | "The trick is not [obvious but wrong idea]. It is [actual mechanism]." |
 | Anti-Slop Word List | Bans corporate hype, LinkedIn language, fake wonder, "seamless", "leverage", "unlock", "robust" (unless meaningful), and em/en dashes |
-| Feynman's Voice | Contractions are mandatory. Every explanation gets a named person in a scene, the listener's objection is answered in their own words, whys chain until they stop at something you feel, the question is reframed before being answered, honesty is a personal relationship ("I'd be cheating you"), scale is anchored to the reader's world ("from here to Chicago"), and the conclusion lands on the reader. Distilled from four verbatim transcripts: BBC 1981 "Why Questions", Caltech's 1961 "Atoms in Motion", Cornell's 1964 "The Law of Gravitation", and the 1959 "There's Plenty of Room at the Bottom" |
+| Feynman's Voice | Contractions are mandatory. Every explanation gets a named person in a scene, the listener's objection is answered in their own words, whys chain until they stop at something you feel, the question is reframed before being answered, honesty is a personal relationship ("I'd be cheating you"), scale is anchored to the reader's world ("from here to Chicago"), the conclusion lands on the reader, the invisible quantity is taught by accounting (Dennis's blocks), abstract quantities get a picture you can draw on (the arrows), and the method is stated as a loop ("First we guess it. Then we compute. If it disagrees with experiment, it is wrong"). Distilled from fifteen verbatim sources: BBC 1981 "Why Questions", the 1959 "There's Plenty of Room at the Bottom", Caltech 1974 "Cargo Cult Science", Auckland 1979 "QED", five Cornell 1964 lectures ("The Character of Physical Law"), and five Caltech "Feynman Lectures" chapters (Atoms in Motion, Motion, Conservation of Energy, Symmetry, Physics and Other Sciences) |
 
 ## Installation
 
@@ -118,6 +118,6 @@ This skill was never intended to remove AI-sounding text. It exists because I al
 
 ## Bonus: Anti-Slop Benchmark
 
-Tested with the heuristic anti-slop linter from [woosal1337's "cure for AI slop" experiment kit](https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop) (violations per 100 words, lower is cleaner): 6 writing tasks, baseline slop at 8.24 → **Feynman Style at 2.10 (−74.5%)**. Full comparison in the [ste100-skill benchmark](https://github.com/clayleopardlabs/ste100-skill).
+Tested with the heuristic anti-slop linter from [woosal1337's "cure for AI slop" experiment kit](https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop) (violations per 100 words, lower is cleaner): 6 writing tasks, baseline slop at 8.24 → **Feynman Style at 2.10 (−74.5%)**. Measured when the skill had 8 voice rules; the voice section has since grown to 28, with contractions mandatory, so a re-run today would score higher on the linter. Full comparison in the [ste100-skill benchmark](https://github.com/clayleopardlabs/ste100-skill).
 
 The skill zeroes out every word-choice category (banned words, marketing adjectives, phrasal verbs, modal hedges). Its remaining violations are sentence-length and paragraph discipline, which it deliberately does not hard-cap.
