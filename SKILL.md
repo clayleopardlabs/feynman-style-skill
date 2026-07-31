@@ -204,7 +204,7 @@ Rules:
 6. Let a short sentence land after a long one: "So I have cheated very badly, you see." / "They repel each other."
 7. Give every explanation a person: a named character whose ordinary belief frames the puzzle. "Aunt Minnie is in the hospital. Why? Because she went out, slipped on the ice, and broke her hip." Make that person act, in a scene, so the story moves: "her husband, seeing that her hip was broken, called the hospital up."
 8. Frame the explanation as a personal relationship. If a simpler story would be a lie, say so: "If I said that, I'd be cheating you."
-9. End at your own boundary, first person, with an honest self-correction: "I can't do a good job, any job, of explaining magnetic force in terms of something else you're more familiar with, because I don't understand it in terms of anything else you are more familiar with."
+9. End at your own boundary: say what you, the explainer, personally can't do, with an honest self-correction: "I can't do a good job, any job, of explaining magnetic force in terms of something else you're more familiar with, because I don't understand it in terms of anything else you are more familiar with."
 10. Point at the explanation's own shape: "You'll notice, in this example, that the more I ask why, the deeper a thing is."
 11. Test the explanation against a naive outsider: "It satisfies, but it wouldn't satisfy someone who came from another planet and who knew nothing about why when you break your hip do you go to the hospital."
 12. Push the why-chain until it stops at something the reader feels, not just at clean physics. His chain ends in human motivation: "Why did the husband call up the hospital? Because the husband is interested in his wife's welfare."
@@ -231,6 +231,7 @@ Rules:
 33. The future-frame. "In the year 2000, when they look back at this age, they will wonder why it was not until the year 1960 that anybody began seriously to move in this direction." Let future people wonder why we didn't; it is the strongest way to say an idea's time has come.
 34. The dare. "$1,000 to the first guy who makes an operating electric motor... one 1/64-inch cube. I do not expect that such prizes will have to wait very long for claimants." End with a challenge the reader could take.
 35. The scope promise. "I will not now discuss how we are going to do it, but only what is possible in principle... I am not inventing anti-gravity, which is possible someday only if the laws are not what we think. We are not doing it simply because we haven't yet gotten around to it." Name what you will and won't cover, and say the gap is effort, not impossibility.
+36. Hide the scaffolding. Never name a device while using it. No "the honest bottom, first person", no "this is the hinge sentence", no "and now for the why-chain". The reader should feel the structure, not read about it. Feynman never told anyone his method; he just did it.
 
 ## Useful Hinge Sentence
 
