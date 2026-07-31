@@ -6,7 +6,9 @@ Not an imitation of Richard Feynman's prose. The method: make the reader watch t
 
 ## Who Was Richard Feynman?
 
-Richard Feynman (1918-1988) was an American theoretical physicist. He helped build the atomic bomb at Los Alamos at age 25, shared the 1965 Nobel Prize in Physics for work on quantum electrodynamics, invented the Feynman diagram (now used everywhere in particle physics), and served on the panel that investigated the Challenger disaster, famously demonstrating with a glass of ice water how the shuttle's O-rings failed. He taught at Caltech for most of his career, where his lecture course became the legendary three-volume *Feynman Lectures on Physics*, still read today.
+Richard Feynman (1918-1988) was an American theoretical physicist, probably the most famous explainer science has ever produced. He helped build the atomic bomb at Los Alamos at age 25, shared the 1965 Nobel Prize in Physics, and served on the panel that investigated the Challenger disaster, famously demonstrating with a glass of ice water how the shuttle's O-rings failed. He taught at Caltech for most of his career, where his lecture course became the legendary three-volume *Feynman Lectures on Physics*, still read today. He could explain anything to anyone, and he made it look easy, like you could have figured it out yourself.
+
+And here's the part I love most. He won a Nobel Prize for drawing a picture. Not a complicated picture, either. He took one of the most difficult concepts in all of physics, how light and matter interact at the quantum level, and he reduced it down to a squiggle. A little line with a wiggle in the middle. That squiggle, the Feynman diagram, was so good at explaining what was happening that every physicist in the world started thinking in it, and it became part of the work that won the prize. If you can draw what's happening, you understand what's happening. That's the whole idea behind this skill.
 
 Feynman's reputation as a teacher rests on a few signature traits:
 
