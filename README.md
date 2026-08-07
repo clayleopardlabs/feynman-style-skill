@@ -2,13 +2,19 @@
 
 An AI coding assistant skill for explaining, rewriting, and drafting technical material in a Feynman-like way: concrete, curious, physically grounded, technically honest, and allergic to fake sophistication.
 
-Not a parody of Richard Feynman's prose. The method: make the reader watch the ordinary explanation fail, then give them the smallest new mechanism that makes the result make sense. And the voice: the way he actually talked, distilled from his transcripts.
+## My hate for those fake AI videos on youtube
+
+Ironically I despise those fake feynman AI slop videos on youtube so I'm conflicted about having this repo be public. I guess at least if one of those scumbags finds this repo the quality of the videos will go up. I couldn't even find my favorite video on feynman to link to this readme because apparently all youtube will show you now are those terrible videos.
+
+## How I made this
+
+I had agents generate an explanation of a topic using the primitive version of this skill e.g. quantum mechanics, MD5 Hashes, etc. then read some of feynman's actual recorded lectures and compare the two. Then it tweaked the skill to fix things that were wrong like Feynman being a New Yorker who uses contractions, using actual named people in hypotheticals, etc. We did this over 100 times. It was super interesting! It found a bunch of really neat patterns in Feynman's teaching style and incorporated them. Then I had it call subagents to use the skill that were locally hosted and really small, so it fine tuned the skill to not be bloated and overwhelm the smaller models. 
 
 ## Who Was Richard Feynman?
 
 Richard Feynman (1918-1988) was an American theoretical physicist, probably the most famous explainer science has ever produced. He helped build the atomic bomb at Los Alamos at age 25, shared the 1965 Nobel Prize in Physics, and served on the panel that investigated the Challenger disaster, famously demonstrating with a glass of ice water how the shuttle's O-rings failed. He taught at Caltech for most of his career, where his lecture course became the legendary three-volume *Feynman Lectures on Physics*, still read today. He could explain anything to anyone, and he made it look easy, like you could have figured it out yourself.
 
-And here's the part I love most. He won a Nobel Prize for drawing a picture. Not a complicated picture, either. He took one of the most difficult concepts in all of physics, how light and matter interact at the quantum level, and he reduced it down to a squiggle. A little line with a wiggle in the middle. That squiggle, the Feynman diagram, was so good at explaining what was happening that every physicist in the world started thinking in it, and it became part of the work that won the prize. If you can draw what's happening, you understand what's happening. That's the whole idea behind this skill.
+And here's the part I love most. He won a Nobel Prize for drawing a picture. Not a complicated picture, either. He took one of the most difficult concepts in all of physics, how light and matter interact at the quantum level, and he reduced it down to a squiggle. That squiggle, the Feynman diagram, was so good at explaining what was happening that every physicist in the world started thinking in it, and it became part of the work that won the prize. If you can draw what's happening, you understand what's happening. That's the whole idea behind this skill.
 
 ![Uploading feynman.jpg…]()
 
