@@ -12,7 +12,9 @@ I had agents generate an explanation of a topic using the primitive version of t
 
 ## Who Was Richard Feynman?
 
-Inside the Mind of Richard Feynman: The Great Explainer
+SciShow's video on Feynman ->
+
+Inside the Mind of Richard Feynman: The Great Explainer  
 https://www.youtube.com/watch?v=JIJw3OLB9sI
 
 Richard Feynman (1918-1988) was an American theoretical physicist, probably the most famous explainer science has ever produced. He helped build the atomic bomb at Los Alamos at age 25, shared the 1965 Nobel Prize in Physics, and served on the panel that investigated the Challenger disaster, famously demonstrating with a glass of ice water how the shuttle's O-rings failed. He taught at Caltech for most of his career, where his lecture course became the legendary three-volume *Feynman Lectures on Physics*, still read today. He could explain anything to anyone, and he made it look easy, like you could have figured it out yourself.
