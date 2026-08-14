@@ -6,9 +6,6 @@ An AI coding assistant skill for explaining, rewriting, and drafting technical m
 
 Ironically I despise those fake feynman AI slop videos on youtube so I'm conflicted about having this repo be public. I guess at least if one of those scumbags finds this repo the quality of the videos will go up. I couldn't even find my favorite video on feynman to link to this readme because apparently all youtube will show you now are those terrible videos.
 
-## How I made this
-
-I had agents generate an explanation of a topic using the primitive version of this skill e.g. quantum mechanics, MD5 Hashes, etc. then read some of feynman's actual recorded lectures and compare the two. Then it tweaked the skill to fix things that were wrong like Feynman being a New Yorker who uses contractions, using actual named people in hypotheticals, etc. We did this over 100 times. It was super interesting! It found a bunch of really neat patterns in Feynman's teaching style and incorporated them. Then I had it call subagents to use the skill that were locally hosted and really small, so it fine tuned the skill to not be bloated and overwhelm the smaller models. 
 
 ## Who Was Richard Feynman?
 
@@ -17,27 +14,21 @@ SciShow's video on Feynman ->
 Inside the Mind of Richard Feynman: The Great Explainer  
 https://www.youtube.com/watch?v=JIJw3OLB9sI
 
-Richard Feynman (1918-1988) was an American theoretical physicist, probably the most famous explainer science has ever produced. He helped build the atomic bomb at Los Alamos at age 25, shared the 1965 Nobel Prize in Physics, and served on the panel that investigated the Challenger disaster, famously demonstrating with a glass of ice water how the shuttle's O-rings failed. He taught at Caltech for most of his career, where his lecture course became the legendary three-volume *Feynman Lectures on Physics*, still read today. He could explain anything to anyone, and he made it look easy, like you could have figured it out yourself.
+Richard Feynman was an American theoretical physicist, known as 'The Great Explainer.' He was whicked smaht; He helped build the atomic bomb at Los Alamos at age 25, shared the 1965 Nobel Prize in Physics, and served on the panel that investigated the Challenger disaster, famously demonstrating with a glass of ice water how the shuttle's O-rings failed. He taught at Caltech for most of his career, where his lecture course became the legendary three-volume *Feynman Lectures on Physics*, still read today. He could explain anything to anyone, and he made it look easy, like you could have figured it out yourself.
 
-And here's the part I love most. He won a Nobel Prize for drawing a picture. Not a complicated picture, either. He took one of the most difficult concepts in all of physics, how light and matter interact at the quantum level, and he reduced it down to a squiggle. That squiggle, the Feynman diagram, was so good at explaining what was happening that every physicist in the world started thinking in it, and it became part of the work that won the prize. If you can draw what's happening, you understand what's happening. That's the whole idea behind this skill.
+And here's my favorite part: He won a Nobel Prize for drawing a picture. Not a complicated picture A squiggle. He took one of the most difficult concepts in all of physics, how light and matter interact at the quantum level, and he reduced it down to a squiggle. That drawing, the Feynman diagram, was so good at explaining what was happening that every physicist in the world started thinking in it, and it became part of the work that won the prize. If you can draw what's happening, you understand what's happening. That's the whole idea behind this skill.
 
-
-
-Feynman's reputation as a teacher rests on a few signature traits:
-
-- **Explaining at the level the listener needs.** His famous maxim: "if you can't explain it simply, you don't understand it well enough." He stripped ideas to their physical core and rebuilt them from scratch for each audience, never assuming prior jargon.
-- **Physical intuition over formalism.** He refused to recite equations; he found the picture behind them. The Feynman diagram itself was born from his need to visualize particle interactions.
-- **"Why would you care" framing.** He started with puzzles or paradoxes the listener could feel, then revealed the mechanism that resolves them.
-- **Radical honesty.** He freely said "I don't know", and loved showing when the conventional explanation was actually nonsense.
-- **Analogies that match the mechanism.** Vivid examples that behave like the real thing, so the analogy never misleads.
-
-Those five traits are exactly what this skill encodes: puzzle first, ordinary model, where it fails, then the smallest honest mechanism, with terms introduced late.
 
 ## What It Does
 
 - **Explains** hard topics in layers: puzzle → obvious (wrong) model → where it fails → real mechanism → consequences
 - **Rewrites** documentation, READMEs, and product copy by finding the real mechanism and replacing hype with concrete capability
 - **Drafts** technical material in plain speech with no corporate filler
+
+
+## How I made this
+- 
+I had agents generate an explanation of a topic using this skill e.g. quantum mechanics, MD5 Hashes, etc. then had them read some of feynman's actual recorded lectures and compare the two. Then it tweaked the skill to to make it closer. We did this over 100 times. It was super interesting! It found a bunch of really neat patterns in Feynman's teaching style that I never noticed before and incorporated them. Then I had it use the skill with tiny locally hosted subagents so it fine tuned the skill to be efficient so that it could accomplish the same thing with less text and modified the language for the models to stick to the skill rules even when they have a brain the size of a gerbil.
 
 ## Core Rules
 
