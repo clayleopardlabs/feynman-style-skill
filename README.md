@@ -27,7 +27,7 @@ My favorite fact about him: He won a Nobel Prize for drawing a picture. Not a co
 
 
 ## How I made this
-- 
+
 I had agents generate an explanation of a topic using this skill e.g. quantum mechanics, MD5 Hashes, etc. then had them read some of feynman's actual recorded lectures and compare the two. Then it tweaked the skill to to make it closer. We did this over 100 times. It was super interesting! It found a bunch of really neat patterns in Feynman's teaching style that I never noticed before and incorporated them. Then I had it use the skill with tiny locally hosted subagents so it fine tuned the skill to be efficient so that it could accomplish the same thing with less text and modified the language for the models to stick to the skill rules even when they have a brain the size of a gerbil.
 
 ## Core Rules
