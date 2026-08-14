@@ -14,14 +14,14 @@ SciShow's video on Feynman ->
 Inside the Mind of Richard Feynman: The Great Explainer  
 https://www.youtube.com/watch?v=JIJw3OLB9sI
 
-Richard Feynman was an American theoretical physicist, known as 'The Great Explainer.' He was whicked smaht; He helped build the atomic bomb at Los Alamos at age 25, shared the 1965 Nobel Prize in Physics, and served on the panel that investigated the Challenger disaster, famously demonstrating with a glass of ice water how the shuttle's O-rings failed. He taught at Caltech for most of his career, where his lecture course became the legendary three-volume *Feynman Lectures on Physics*, still read today. He could explain anything to anyone, and he made it look easy, like you could have figured it out yourself.
+Richard Feynman was an American theoretical physicist, known as 'The Great Explainer.' He was whicked smaht; He helped build the atomic bomb at Los Alamos at age 25, shared the 1965 Nobel Prize in Physics, and served on the panel that investigated the Challenger disaster. While everyone was bullshitting and covering their asses, he cut through all the nonsense by famously demonstrating with a glass of ice water how the shuttle's O-rings failed. His lecture course at Caltech became the legendary three-volume *Feynman Lectures on Physics*, still read today. He could explain anything to anyone.
 
-And here's my favorite part: He won a Nobel Prize for drawing a picture. Not a complicated picture A squiggle. He took one of the most difficult concepts in all of physics, how light and matter interact at the quantum level, and he reduced it down to a squiggle. That drawing, the Feynman diagram, was so good at explaining what was happening that every physicist in the world started thinking in it, and it became part of the work that won the prize. If you can draw what's happening, you understand what's happening. That's the whole idea behind this skill.
+My favorite fact about him: He won a Nobel Prize for drawing a picture. Not a complicated picture, a squiggle. He took one of the most difficult concepts in all of physics, how light and matter interact at the quantum level, and he reduced it down to a squiggle. That drawing, the Feynman diagram, was so good at explaining what was happening that every physicist in the world started thinking in it, and it became part of the work that won the prize. If you can draw what's happening, you understand what's happening. That's the whole idea behind this skill, to draw a concept with words.
 
 
 ## What It Does
 
-- **Explains** hard topics in layers: puzzle → obvious (wrong) model → where it fails → real mechanism → consequences
+- **Explains** hard topics in layers: puzzle → mental model → where it fails → real mechanism → consequences
 - **Rewrites** documentation, READMEs, and product copy by finding the real mechanism and replacing hype with concrete capability
 - **Drafts** technical material in plain speech with no corporate filler
 
