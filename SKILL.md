@@ -1,7 +1,14 @@
 ---
-name: Feynman Style
-description: Explain, rewrite, or draft technical material using mechanism-matched examples, contrast cases, progressive technical depth, plain speech, and strict scope control.
+name: feynman-style
+description: |
+  Explain, rewrite, or draft technical material in a Feynman-style way: find the
+  real mechanism, show the ordinary rule failing, then give the smallest new rule
+  that fixes it. Uses mechanism-matched examples, contrast cases, progressive
+  technical depth, plain speech, and strict scope control. Use when the user asks
+  to explain something simply, says "explain like Feynman", asks for "feynman
+  style", or invokes /feynman-style.
 metadata:
+  source: https://github.com/clayleopardlabs/feynman-style-skill
   opencode/slash: "true"
 ---
 

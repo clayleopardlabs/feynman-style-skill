@@ -2,6 +2,8 @@
 
 An AI coding assistant skill for explaining, rewriting, and drafting technical material in a Feynman-like way: concrete, curious, physically grounded, technically honest, and allergic to fake sophistication.
 
+It is a plain `SKILL.md`, so it works in DeepSeek Harness, Claude Code, Codex, and OpenCode. See [Installation](#installation).
+
 ## My hate for those fake AI videos on youtube
 
 Ironically I despise those fake feynman AI slop videos on youtube so I'm conflicted about having this repo be public. I guess at least if one of those scumbags finds this repo the quality of the videos will go up. I couldn't even find my favorite video on feynman to link to this readme because apparently all youtube will show you now are those terrible videos.
@@ -46,6 +48,49 @@ My favorite fact about him: He won a Nobel Prize for drawing a picture. Not a co
 
 ## Installation
 
+The frontmatter name is `feynman-style`. Use that exact name for the folder too. DeepSeek Harness, Claude Code, and Codex all require a lowercase kebab-case skill name, so a name like `Feynman Style` gets the skill silently ignored. That is the one install mistake to avoid: folder `feynman-style`, frontmatter `name: feynman-style`, done.
+
+### DeepSeek Harness
+
+One command:
+
+```bash
+mkdir -p ~/.dsh/skills/feynman-style
+curl -fsSL https://raw.githubusercontent.com/clayleopardlabs/feynman-style-skill/main/SKILL.md \
+  -o ~/.dsh/skills/feynman-style/SKILL.md
+```
+
+On Windows the skills root is `%USERPROFILE%\.dsh\skills\feynman-style\SKILL.md`.
+
+From a clone it is a plain copy:
+
+```bash
+cp SKILL.md ~/.dsh/skills/feynman-style/SKILL.md
+```
+
+**No restart needed.** DSH watches its skill roots and republishes the skill catalog while sessions are running, so the skill appears in the session you already have open. If it does not appear, check that the file is at `~/.dsh/skills/feynman-style/SKILL.md` and that its frontmatter `name` is still `feynman-style`. DSH ignores a skill with an invalid name and only writes a warning to its log.
+
+Where DSH looks for skills, highest priority first:
+
+| Location | Scope |
+|---|---|
+| `<project>/.dsh/skills/feynman-style/SKILL.md` | that project |
+| `<project>/.agents/skills/feynman-style/SKILL.md` | that project, shared with other agent tools |
+| `customSkillDirs` entries in a preset | that preset |
+| `~/.dsh/skills/feynman-style/SKILL.md` | every profile on the machine |
+| `~/.agents/skills/feynman-style/SKILL.md` | every profile, shared with other agent tools |
+
+Type `/feynman-style` in the composer to load it directly, or just ask for an explanation and the model picks it up from the skill catalog.
+
+One preset caveat: a preset with `includeDefaultRoots: false` only sees its own `customSkillDirs`, so `~/.dsh/skills` is invisible there. If the skill shows up in one mode but not another, add `~/.dsh/skills` to that preset's `customSkillDirs`.
+
+Optional DSH frontmatter switches:
+
+- `disable-model-invocation: true` keeps the skill user-invoked only.
+- `user-invocable: false` hides it from the user and leaves it model-invoked only.
+
+Use those kebab-case keys. DSH rejects the older camelCase spellings (`disableModelInvocation`, `modelInvocable`, `userInvocable`) by ignoring the skill, rather than guessing what you meant.
+
 ### OpenCode
 
 Add the skill source to your `opencode.json`:
@@ -66,7 +111,7 @@ Add the skill source to your `opencode.json`:
 Or copy the `SKILL.md` into your skills directory:
 
 ```
-~/.config/opencode/skills/feynmanstyle/SKILL.md
+~/.config/opencode/skills/feynman-style/SKILL.md
 ```
 
 ### Claude Code / Codex
@@ -78,7 +123,7 @@ Copy `SKILL.md` to:
 ~/.agents/skills/feynman-style/SKILL.md   # Codex
 ```
 
-Restart the assistant. It auto-discovers the skill when you ask to explain, rewrite, or simplify technical material.
+Restart the assistant if the skill does not appear. Claude Code and Codex read skills at startup, so they need the restart. DeepSeek Harness does not.
 
 ## Usage Examples
 
